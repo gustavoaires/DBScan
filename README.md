@@ -38,3 +38,5 @@ Implementação do algoritmo de mineração de dados DBScan. Incluindo 3 medidas
 ## Observações
 
 * O código está todo comentádo, a fim de facilitar a edição do mesmo.
+
+* Esse projeto possui 3 implementações de medida de similaridade. Euclidiana, Fading e de Jaccard.
